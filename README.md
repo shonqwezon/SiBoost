@@ -1,1 +1,0 @@
-A program for launching cs go accounts from data.txt

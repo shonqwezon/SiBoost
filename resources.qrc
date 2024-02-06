@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/menu">
+        <file>images/settings.png</file>
+        <file>images/stop all.png</file>
+        <file>images/start all.png</file>
+        <file>images/edit.png</file>
+        <file>images/timer.png</file>
+    </qresource>
+</RCC>
